@@ -1,4 +1,5 @@
-// Declare and write your function here:
+function standardsMaker ()
+for (let ; ;){}
 
 
 standardsMaker();
